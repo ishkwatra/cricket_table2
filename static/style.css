@@ -46,6 +46,12 @@ nav ul li a {
 
 h1,
 h2 {
+    text-align: left;
+    color: #444;
+}
+
+.index h1,
+.index h2 {
     text-align: center;
     color: #444;
 }
